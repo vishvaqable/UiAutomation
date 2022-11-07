@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="90" total="100" passed="3" failed="7" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify history_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on history_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify EMIs_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on EMIs_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify element convert_to_emi_text text is equal CONVERT TO EMI<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify authorize_payments_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on authorize_payments_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify pending_request_approve_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify overview_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on overview_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on get_statement_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify 1_month_radio_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify 3_month_radio_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify custom_radio_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on custom_radio_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify start_date_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify end_date_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify send_via_email is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on send_via_email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify my_statement_screen_back_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on my_statement_screen_back_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on get_statement_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on send_via_email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify element email_not_found_popup_title text is equal Email not found<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+    </line>
+    <line>
+      <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer_8ui1j.png" alt="test" width="1024" height="640"><br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on get_statement_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on send_via_email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on add_email_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+    </line>
+    <line>
+      <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_personal_details_screen_by_entering_invalid_details_QHME0.png" alt="test" width="1024" height="640"><br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on get_statement_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on send_via_email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on add_email_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+    </line>
+    <line>
+      <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_personal_details_screen_3tSNY.png" alt="test" width="1024" height="640"><br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on get_statement_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on send_via_email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on add_email_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+    </line>
+    <line>
+      <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_personal_details_screen_by_entering_valid_details_BhXzW.png" alt="test" width="1024" height="640"><br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on get_statement_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on send_via_email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on add_email_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+    </line>
+    <line>
+      <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_the_resend_Code_timer_enabled_after_45_sec_qF8wo.png" alt="test" width="1024" height="640"><br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on get_statement_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on send_via_email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on add_email_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+    </line>
+    <line>
+      <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_the_field_through_invalid_Code_erWxY.png" alt="test" width="1024" height="640"><br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on get_statement_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on send_via_email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on add_email_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+    </line>
+    <line>
+      <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_the_Code_field_through_valid_Code_j1czT.png" alt="test" width="1024" height="640"><br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on get_statement_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on custom_radio_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on start_date_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on select_start_date<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on calender_ok_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on end_date_button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on select_end_date<br>]]>
+    </line>
+    <line>
+      <![CDATA[Step : Click on calender_ok_button<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-19T12:39:30 IST" name="transaction module Testing" finished-at="2022-10-19T12:52:24 IST" duration-ms="773898">
+    <groups>
+    </groups>
+    <test started-at="2022-10-19T12:39:30 IST" name="To_verify_the_transaction_screen" finished-at="2022-10-19T12:40:33 IST" duration-ms="62990">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@16610890]" started-at="2022-10-19T12:39:30 IST" name="init" finished-at="2022-10-19T12:39:37 IST" duration-ms="7257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_the_transaction_screen()[pri:0, instance:mobile.tests.transactionTests.transactionTests@16610890]" started-at="2022-10-19T12:39:37 IST" name="To_verify_the_transaction_screen" finished-at="2022-10-19T12:40:33 IST" duration-ms="55493" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify history_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on history_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify EMIs_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on EMIs_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify element convert_to_emi_text text is equal CONVERT TO EMI<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify authorize_payments_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on authorize_payments_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify pending_request_approve_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify overview_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on overview_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_the_transaction_screen -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@16610890]" started-at="2022-10-19T12:40:33 IST" name="tear_down" finished-at="2022-10-19T12:40:33 IST" duration-ms="208" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_the_transaction_screen status=SUCCESS method=transactionTests.To_verify_the_transaction_screen()[pri:0, instance:mobile.tests.transactionTests.transactionTests@16610890] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_the_transaction_screen -->
+    <test started-at="2022-10-19T12:40:33 IST" name="To_verify_get_detail_statement_option" finished-at="2022-10-19T12:41:13 IST" duration-ms="39858">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@4efac082]" started-at="2022-10-19T12:40:33 IST" name="init" finished-at="2022-10-19T12:40:40 IST" duration-ms="6725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_get_detail_statement_option()[pri:0, instance:mobile.tests.transactionTests.transactionTests@4efac082]" started-at="2022-10-19T12:40:40 IST" name="To_verify_get_detail_statement_option" finished-at="2022-10-19T12:41:13 IST" duration-ms="32907" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on get_statement_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify 1_month_radio_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify 3_month_radio_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify custom_radio_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on custom_radio_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify start_date_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify end_date_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify send_via_email is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on send_via_email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify my_statement_screen_back_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on my_statement_screen_back_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_get_detail_statement_option -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@4efac082]" started-at="2022-10-19T12:41:13 IST" name="tear_down" finished-at="2022-10-19T12:41:13 IST" duration-ms="225" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_get_detail_statement_option status=SUCCESS method=transactionTests.To_verify_get_detail_statement_option()[pri:0, instance:mobile.tests.transactionTests.transactionTests@4efac082] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_get_detail_statement_option -->
+    <test started-at="2022-10-19T12:41:13 IST" name="To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer" finished-at="2022-10-19T12:42:43 IST" duration-ms="90135">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@b9b00e0]" started-at="2022-10-19T12:41:13 IST" name="init" finished-at="2022-10-19T12:41:20 IST" duration-ms="6586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer()[pri:0, instance:mobile.tests.transactionTests.transactionTests@b9b00e0]" started-at="2022-10-19T12:41:20 IST" name="To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer" finished-at="2022-10-19T12:42:43 IST" duration-ms="83129" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [25d5e316-534e-4733-b13a-ee0338972240, findElement {using=accessibility id, value=test:id/Modal_label_email_not_found}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 25d5e316-534e-4733-b13a-ee0338972240]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [25d5e316-534e-4733-b13a-ee0338972240, findElement {using=accessibility id, value=test:id/Modal_label_email_not_found}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 25d5e316-534e-4733-b13a-ee0338972240
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:189)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at io.unity.performaction.autoweb.Element.get_element_from_value(Element.java:68)
+at io.unity.performaction.autoweb.Element.find(Element.java:83)
+at io.unity.performaction.autoweb.Verify.element_text_is_equal_to(Verify.java:99)
+at mobile.object_repository.transactionSpendsTabPage.transactionSpendsOverviewTabPage.verify_email_not_found_popup_title_text_is_equal_to(transactionSpendsOverviewTabPage.java:515)
+at mobile.tests.transactionTests.transactionTests.To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer(transactionTests.java:109)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at io.unity.framework.runner.TestRunner.start(TestRunner.java:74)
+at Runner.Runner.main(Runner.java:11)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on get_statement_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on send_via_email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify element email_not_found_popup_title text is equal Email not found<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@b9b00e0]" started-at="2022-10-19T12:42:43 IST" name="tear_down" finished-at="2022-10-19T12:42:43 IST" duration-ms="420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer status=FAILURE method=transactionTests.To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer()[pri:0, instance:mobile.tests.transactionTests.transactionTests@b9b00e0] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+            </line>
+            <line>
+              <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer_8ui1j.png" alt="test" width="1024" height="640"><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_send_email_functionality_if_email_address_is_not_added_in_the_system_for_customer -->
+    <test started-at="2022-10-19T12:42:43 IST" name="To_verify_personal_details_screen_by_entering_invalid_details" finished-at="2022-10-19T12:44:15 IST" duration-ms="91795">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@54e1c68b]" started-at="2022-10-19T12:42:43 IST" name="init" finished-at="2022-10-19T12:42:50 IST" duration-ms="6559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_personal_details_screen_by_entering_invalid_details()[pri:0, instance:mobile.tests.transactionTests.transactionTests@54e1c68b]" started-at="2022-10-19T12:42:50 IST" name="To_verify_personal_details_screen_by_entering_invalid_details" finished-at="2022-10-19T12:44:15 IST" duration-ms="84813" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [7a78e542-943c-46af-b9fd-f27e0595b23e, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 7a78e542-943c-46af-b9fd-f27e0595b23e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [7a78e542-943c-46af-b9fd-f27e0595b23e, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 7a78e542-943c-46af-b9fd-f27e0595b23e
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:189)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at io.unity.performaction.autoweb.Element.get_element_from_value(Element.java:68)
+at io.unity.performaction.autoweb.Element.find(Element.java:83)
+at io.unity.performaction.autoweb.Element.click(Element.java:290)
+at mobile.object_repository.transactionSpendsTabPage.transactionSpendsOverviewTabPage.click_on_add_email_button(transactionSpendsOverviewTabPage.java:507)
+at mobile.tests.transactionTests.transactionTests.To_verify_personal_details_screen_by_entering_invalid_details(transactionTests.java:135)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at io.unity.framework.runner.TestRunner.start(TestRunner.java:74)
+at Runner.Runner.main(Runner.java:11)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on get_statement_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on send_via_email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on add_email_button<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_personal_details_screen_by_entering_invalid_details -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@54e1c68b]" started-at="2022-10-19T12:44:15 IST" name="tear_down" finished-at="2022-10-19T12:44:15 IST" duration-ms="421" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_personal_details_screen_by_entering_invalid_details status=FAILURE method=transactionTests.To_verify_personal_details_screen_by_entering_invalid_details()[pri:0, instance:mobile.tests.transactionTests.transactionTests@54e1c68b] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+            </line>
+            <line>
+              <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_personal_details_screen_by_entering_invalid_details_QHME0.png" alt="test" width="1024" height="640"><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_personal_details_screen_by_entering_invalid_details -->
+    <test started-at="2022-10-19T12:44:15 IST" name="To_verify_personal_details_screen" finished-at="2022-10-19T12:45:46 IST" duration-ms="91117">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@7db12bb6]" started-at="2022-10-19T12:44:15 IST" name="init" finished-at="2022-10-19T12:44:22 IST" duration-ms="6575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_personal_details_screen()[pri:0, instance:mobile.tests.transactionTests.transactionTests@7db12bb6]" started-at="2022-10-19T12:44:22 IST" name="To_verify_personal_details_screen" finished-at="2022-10-19T12:45:46 IST" duration-ms="84098" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [35406f57-0d96-489d-b73c-6717ae4552f7, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 35406f57-0d96-489d-b73c-6717ae4552f7]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [35406f57-0d96-489d-b73c-6717ae4552f7, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 35406f57-0d96-489d-b73c-6717ae4552f7
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:189)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at io.unity.performaction.autoweb.Element.get_element_from_value(Element.java:68)
+at io.unity.performaction.autoweb.Element.find(Element.java:83)
+at io.unity.performaction.autoweb.Element.click(Element.java:290)
+at mobile.object_repository.transactionSpendsTabPage.transactionSpendsOverviewTabPage.click_on_add_email_button(transactionSpendsOverviewTabPage.java:507)
+at mobile.tests.transactionTests.transactionTests.To_verify_personal_details_screen(transactionTests.java:158)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at io.unity.framework.runner.TestRunner.start(TestRunner.java:74)
+at Runner.Runner.main(Runner.java:11)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on get_statement_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on send_via_email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on add_email_button<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_personal_details_screen -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@7db12bb6]" started-at="2022-10-19T12:45:46 IST" name="tear_down" finished-at="2022-10-19T12:45:46 IST" duration-ms="442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_personal_details_screen status=FAILURE method=transactionTests.To_verify_personal_details_screen()[pri:0, instance:mobile.tests.transactionTests.transactionTests@7db12bb6] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+            </line>
+            <line>
+              <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_personal_details_screen_3tSNY.png" alt="test" width="1024" height="640"><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_personal_details_screen -->
+    <test started-at="2022-10-19T12:45:46 IST" name="To_verify_personal_details_screen_by_entering_valid_details" finished-at="2022-10-19T12:47:18 IST" duration-ms="91432">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@771a660]" started-at="2022-10-19T12:45:46 IST" name="init" finished-at="2022-10-19T12:45:53 IST" duration-ms="6950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_personal_details_screen_by_entering_valid_details()[pri:0, instance:mobile.tests.transactionTests.transactionTests@771a660]" started-at="2022-10-19T12:45:53 IST" name="To_verify_personal_details_screen_by_entering_valid_details" finished-at="2022-10-19T12:47:17 IST" duration-ms="84078" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [204c8770-d1c5-4938-b44a-d46726843c17, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 204c8770-d1c5-4938-b44a-d46726843c17]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [204c8770-d1c5-4938-b44a-d46726843c17, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 204c8770-d1c5-4938-b44a-d46726843c17
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:189)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at io.unity.performaction.autoweb.Element.get_element_from_value(Element.java:68)
+at io.unity.performaction.autoweb.Element.find(Element.java:83)
+at io.unity.performaction.autoweb.Element.click(Element.java:290)
+at mobile.object_repository.transactionSpendsTabPage.transactionSpendsOverviewTabPage.click_on_add_email_button(transactionSpendsOverviewTabPage.java:507)
+at mobile.tests.transactionTests.transactionTests.To_verify_personal_details_screen_by_entering_valid_details(transactionTests.java:183)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at io.unity.framework.runner.TestRunner.start(TestRunner.java:74)
+at Runner.Runner.main(Runner.java:11)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on get_statement_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on send_via_email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on add_email_button<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_personal_details_screen_by_entering_valid_details -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@771a660]" started-at="2022-10-19T12:47:17 IST" name="tear_down" finished-at="2022-10-19T12:47:18 IST" duration-ms="403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_personal_details_screen_by_entering_valid_details status=FAILURE method=transactionTests.To_verify_personal_details_screen_by_entering_valid_details()[pri:0, instance:mobile.tests.transactionTests.transactionTests@771a660] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+            </line>
+            <line>
+              <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_personal_details_screen_by_entering_valid_details_BhXzW.png" alt="test" width="1024" height="640"><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_personal_details_screen_by_entering_valid_details -->
+    <test started-at="2022-10-19T12:47:18 IST" name="To_verify_the_resend_Code_timer_enabled_after_45_sec" finished-at="2022-10-19T12:48:48 IST" duration-ms="90518">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@3527942a]" started-at="2022-10-19T12:47:18 IST" name="init" finished-at="2022-10-19T12:47:24 IST" duration-ms="6616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_the_resend_Code_timer_enabled_after_45_sec()[pri:0, instance:mobile.tests.transactionTests.transactionTests@3527942a]" started-at="2022-10-19T12:47:24 IST" name="To_verify_the_resend_Code_timer_enabled_after_45_sec" finished-at="2022-10-19T12:48:48 IST" duration-ms="83516" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [bded53e3-cf69-4d3d-9d3f-8a7d7e2fad8e, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: bded53e3-cf69-4d3d-9d3f-8a7d7e2fad8e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [bded53e3-cf69-4d3d-9d3f-8a7d7e2fad8e, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: bded53e3-cf69-4d3d-9d3f-8a7d7e2fad8e
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:189)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at io.unity.performaction.autoweb.Element.get_element_from_value(Element.java:68)
+at io.unity.performaction.autoweb.Element.find(Element.java:83)
+at io.unity.performaction.autoweb.Element.click(Element.java:290)
+at mobile.object_repository.transactionSpendsTabPage.transactionSpendsOverviewTabPage.click_on_add_email_button(transactionSpendsOverviewTabPage.java:507)
+at mobile.tests.transactionTests.transactionTests.To_verify_the_resend_Code_timer_enabled_after_45_sec(transactionTests.java:208)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at io.unity.framework.runner.TestRunner.start(TestRunner.java:74)
+at Runner.Runner.main(Runner.java:11)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on get_statement_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on send_via_email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on add_email_button<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_the_resend_Code_timer_enabled_after_45_sec -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@3527942a]" started-at="2022-10-19T12:48:48 IST" name="tear_down" finished-at="2022-10-19T12:48:48 IST" duration-ms="384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_the_resend_Code_timer_enabled_after_45_sec status=FAILURE method=transactionTests.To_verify_the_resend_Code_timer_enabled_after_45_sec()[pri:0, instance:mobile.tests.transactionTests.transactionTests@3527942a] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+            </line>
+            <line>
+              <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_the_resend_Code_timer_enabled_after_45_sec_qF8wo.png" alt="test" width="1024" height="640"><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_the_resend_Code_timer_enabled_after_45_sec -->
+    <test started-at="2022-10-19T12:48:48 IST" name="To_verify_the_field_through_invalid_Code" finished-at="2022-10-19T12:50:18 IST" duration-ms="90388">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@534a5a98]" started-at="2022-10-19T12:48:48 IST" name="init" finished-at="2022-10-19T12:48:55 IST" duration-ms="6616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_the_field_through_invalid_Code()[pri:0, instance:mobile.tests.transactionTests.transactionTests@534a5a98]" started-at="2022-10-19T12:48:55 IST" name="To_verify_the_field_through_invalid_Code" finished-at="2022-10-19T12:50:18 IST" duration-ms="83400" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [eb04fd79-2870-48b5-bf52-118a65de561d, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: eb04fd79-2870-48b5-bf52-118a65de561d]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [eb04fd79-2870-48b5-bf52-118a65de561d, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: eb04fd79-2870-48b5-bf52-118a65de561d
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:189)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at io.unity.performaction.autoweb.Element.get_element_from_value(Element.java:68)
+at io.unity.performaction.autoweb.Element.find(Element.java:83)
+at io.unity.performaction.autoweb.Element.click(Element.java:290)
+at mobile.object_repository.transactionSpendsTabPage.transactionSpendsOverviewTabPage.click_on_add_email_button(transactionSpendsOverviewTabPage.java:507)
+at mobile.tests.transactionTests.transactionTests.To_verify_the_field_through_invalid_Code(transactionTests.java:234)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at io.unity.framework.runner.TestRunner.start(TestRunner.java:74)
+at Runner.Runner.main(Runner.java:11)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on get_statement_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on send_via_email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on add_email_button<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_the_field_through_invalid_Code -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@534a5a98]" started-at="2022-10-19T12:50:18 IST" name="tear_down" finished-at="2022-10-19T12:50:18 IST" duration-ms="372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_the_field_through_invalid_Code status=FAILURE method=transactionTests.To_verify_the_field_through_invalid_Code()[pri:0, instance:mobile.tests.transactionTests.transactionTests@534a5a98] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+            </line>
+            <line>
+              <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_the_field_through_invalid_Code_erWxY.png" alt="test" width="1024" height="640"><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_the_field_through_invalid_Code -->
+    <test started-at="2022-10-19T12:50:18 IST" name="To_verify_the_Code_field_through_valid_Code" finished-at="2022-10-19T12:51:49 IST" duration-ms="90591">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@130c12b7]" started-at="2022-10-19T12:50:18 IST" name="init" finished-at="2022-10-19T12:50:25 IST" duration-ms="6677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_the_Code_field_through_valid_Code()[pri:0, instance:mobile.tests.transactionTests.transactionTests@130c12b7]" started-at="2022-10-19T12:50:25 IST" name="To_verify_the_Code_field_through_valid_Code" finished-at="2022-10-19T12:51:49 IST" duration-ms="83527" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [bda258e5-17d0-4e05-8fdc-1407bb635ca2, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: bda258e5-17d0-4e05-8fdc-1407bb635ca2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [bda258e5-17d0-4e05-8fdc-1407bb635ca2, findElement {using=accessibility id, value=test:id/f_label_add_email}]
+Capabilities {appium:app: C:\Users\ViralPatel\IdeaPro..., appium:appPackage: com.kotak.bnpl, appium:autoGrantPermissions: true, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ViralPatel\IdeaPro..., autoGrantPermissions: true, deviceName: emulator-5554, deviceOrientation: portrait, platformName: android, platformVersion: 11.0}, appium:deviceApiLevel: 30, appium:deviceManufacturer: unknown, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceOrientation: portrait, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 11, appium:statBarHeight: 136, appium:takesScreenshot: true, appium:viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: bda258e5-17d0-4e05-8fdc-1407bb635ca2
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:189)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at io.unity.performaction.autoweb.Element.get_element_from_value(Element.java:68)
+at io.unity.performaction.autoweb.Element.find(Element.java:83)
+at io.unity.performaction.autoweb.Element.click(Element.java:290)
+at mobile.object_repository.transactionSpendsTabPage.transactionSpendsOverviewTabPage.click_on_add_email_button(transactionSpendsOverviewTabPage.java:507)
+at mobile.tests.transactionTests.transactionTests.To_verify_the_Code_field_through_valid_Code(transactionTests.java:260)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at io.unity.framework.runner.TestRunner.start(TestRunner.java:74)
+at Runner.Runner.main(Runner.java:11)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on get_statement_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on 1_month_radio_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on send_via_email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on add_email_button<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_the_Code_field_through_valid_Code -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@130c12b7]" started-at="2022-10-19T12:51:49 IST" name="tear_down" finished-at="2022-10-19T12:51:49 IST" duration-ms="385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_the_Code_field_through_valid_Code status=FAILURE method=transactionTests.To_verify_the_Code_field_through_valid_Code()[pri:0, instance:mobile.tests.transactionTests.transactionTests@130c12b7] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<h1 style="color:red;font-size:15px;">Test Failed</h1>   ]]>
+            </line>
+            <line>
+              <![CDATA[Step : <img src="C:\Users\ViralPatel\IdeaProjects\kotak-bnpl-automation-tests\src\test\resources\failed_test_screenshot\To_verify_the_Code_field_through_valid_Code_j1czT.png" alt="test" width="1024" height="640"><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_the_Code_field_through_valid_Code -->
+    <test started-at="2022-10-19T12:51:49 IST" name="To_verify_start_date_cannot_be_greater_than_end_date" finished-at="2022-10-19T12:52:24 IST" duration-ms="35004">
+      <class name="mobile.tests.transactionTests.transactionTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:mobile.tests.transactionTests.transactionTests@2e3967ea]" started-at="2022-10-19T12:51:49 IST" name="init" finished-at="2022-10-19T12:51:56 IST" duration-ms="6703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="To_verify_start_date_cannot_be_greater_than_end_date()[pri:0, instance:mobile.tests.transactionTests.transactionTests@2e3967ea]" started-at="2022-10-19T12:51:56 IST" name="To_verify_start_date_cannot_be_greater_than_end_date" finished-at="2022-10-19T12:52:24 IST" duration-ms="28027" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step : verify transaction_spend_tab is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on transaction_spend_tab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : verify get_statement_button is displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[<h1 style="color:green;font-size:15px;">Test Passed</h1> ]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on get_statement_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on custom_radio_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on start_date_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on select_start_date<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on calender_ok_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on end_date_button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on select_end_date<br>]]>
+            </line>
+            <line>
+              <![CDATA[Step : Click on calender_ok_button<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- To_verify_start_date_cannot_be_greater_than_end_date -->
+        <test-method is-config="true" signature="tear_down(org.testng.ITestResult)[pri:0, instance:mobile.tests.transactionTests.transactionTests@2e3967ea]" started-at="2022-10-19T12:52:24 IST" name="tear_down" finished-at="2022-10-19T12:52:24 IST" duration-ms="274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=To_verify_start_date_cannot_be_greater_than_end_date status=SUCCESS method=transactionTests.To_verify_start_date_cannot_be_greater_than_end_date()[pri:0, instance:mobile.tests.transactionTests.transactionTests@2e3967ea] output=Step : verify transaction_spend_tab is displayed<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- mobile.tests.transactionTests.transactionTests -->
+    </test> <!-- To_verify_start_date_cannot_be_greater_than_end_date -->
+  </suite> <!-- transaction module Testing -->
+</testng-results>

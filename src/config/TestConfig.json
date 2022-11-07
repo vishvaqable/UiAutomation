@@ -5,14 +5,22 @@
       "platform": "web",
       "browser": "chrome",
       "capabilities": {},
-      "env": "https://quality.dhiwise.com/signin",
+      "env": "https://vaddev.projectuatserver.com/",
       "isGrid": false,
       "gridURL": "",
       "viewPort": "",
-      "suite": [
-        ""
+      "visual_test": {
+        "mode": "compare"
+      },
+      "apiTestConfig": {
+        "enable": false,
+        "env": ""
+      },
+      "testNGsuite": [
+        "sanity.xml"
       ]
     },
+
     "smokeConfig": {
       "platform": "web",
       "browser": "chrome",

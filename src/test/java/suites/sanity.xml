@@ -1,11 +1,11 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name = "Sanity Testing">
-    <test name = "QAblepoint">
+<suite name = "API_Regression">
+    <test name = "getting started with valid token">
         <classes>
-            <class name = "web.tests.login.login_test" >
+            <class name = "web.tests.comparess.comparetest">
                 <methods>
-                    <include name="verify_login_page"></include>
+                    <include name="check_ui"></include>
                 </methods>
             </class>
         </classes>
